@@ -1,7 +1,10 @@
 <p align="center">
-<img style="height:100%; width: 512px;" src="https://github.com/Xmorinori/Cerberus_V1/blob/main/assets/logo.jpg"/></br>
-<span style="font-size:32px;">C E R B E R U S</span>
+  <img src="https://github.com/Xmorinori/Cerberus_V1/blob/main/assets/logo.jpg" 
+       style="width:512px; height:auto; border-radius:20px;"/>
+  <br/>
+  <span style="font-size:32px; font-weight:bold;">C E R B E R U S</span>
 </p>
+
 
 <p align="center">
 
